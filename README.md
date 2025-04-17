@@ -33,7 +33,7 @@ All four questions are implemented in a single Google Colab notebook.
 
 You can either run it locally or open it in Colab:
 
-[🔗 Open in Google Colab](https://colab.research.google.com/drive/1w22G7dpPHTMogUgfdpGPUUmcXsL0MjQv#scrollTo=fBKv7BdpnV6P)
+[🔗 Open in Google Colab](https://colab.research.google.com/drive/1w22G7dpPHTMogUgfdpGPUUmcXsL0MjQv?usp=sharing)
 
 ---
 
